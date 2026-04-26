@@ -309,7 +309,7 @@ Preencha todas as seções de forma clara e objetiva.
 
 
 
-**Exemplo:**
+**Relatório do projeto**
 
 👤 Identificação: **Amaro Júnior Silva Luna**
 
